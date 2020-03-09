@@ -1,0 +1,49 @@
+[33mcommit 3ea3fe1466162a9bd148caee5a0747793a02b62f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ignacio Naranjo <josenaranjo606@gmail.com>
+Date:   Sun Mar 8 22:09:41 2020 -0600
+
+    arranco mi proyecto real con html y css
+
+[33mcommit 2df842b7a213586eaf07439d527a3f0cf3254a03[m
+Author: Ignacio Naranjo <josenaranjo606@gmail.com>
+Date:   Sun Mar 8 10:54:43 2020 -0600
+
+    Tercer commit de mi historia file
+
+[33mcommit 6ef219cdf2513529787d3cca9eb4bafcbba5ffcd[m
+Author: Ignacio Naranjo <josenaranjo606@gmail.com>
+Date:   Sun Mar 8 10:53:23 2020 -0600
+
+    Segundo commit de mi histiria file
+
+[33mcommit 3e643bfa8d13b1a0f17af93f1befd0a096a9de34[m
+Author: Ignacio Naranjo <josenaranjo606@gmail.com>
+Date:   Sun Mar 8 10:52:05 2020 -0600
+
+    Primer commit
+
+[33mcommit 6d122326d3cf97030bf0d982db988a4a21eb21db[m
+Author: Ignacio Naranjo <josenaranjo606@gmail.com>
+Date:   Sun Mar 8 10:43:09 2020 -0600
+
+    Agregamos el cargo de la persona
+    
+    la persona es Jose
+
+[33mcommit 95f64dba51344774f9402870861ee0f43d4a592e[m
+Author: Ignacio Naranjo <josenaranjo606@gmail.com>
+Date:   Sun Mar 8 10:41:53 2020 -0600
+
+    gregamos un cambio a su estatura
+
+[33mcommit b861f31c61cd82b0cfdccc995fb42d7b16efa07c[m
+Author: Ignacio Naranjo <josenaranjo606@gmail.com>
+Date:   Sat Mar 7 12:51:53 2020 -0600
+
+    se me olvido agregar el -m al lanzar el commmit
+
+[33mcommit 6c98b9eae65f5d7b777e71fc18239fa73c4c5091[m
+Author: Ignacio Naranjo <josenaranjo606@gmail.com>
+Date:   Sat Mar 7 12:40:07 2020 -0600
+
+            Este es el primer commit
